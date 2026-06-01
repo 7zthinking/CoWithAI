@@ -2,6 +2,30 @@
 
 > 适用：AI Agent 协助的科学计算 / 仿真 / 数据处理 / 领域专用软件
 
+[![GitHub](https://img.shields.io/badge/GitHub-7zthinking%2FCoWithAI-blue?logo=github)](https://github.com/7zthinking/CoWithAI)
+
+## 一键安装
+
+**下载 SKILL.md 到当前目录：**
+
+```bash
+curl -L "https://raw.githubusercontent.com/7zthinking/CoWithAI/main/skills/science-coding-protocol/SKILL.md" -o SKILL.md
+```
+
+**克隆整个仓库：**
+
+```bash
+git clone https://github.com/7zthinking/CoWithAI.git
+```
+
+**下载到指定目录：**
+
+```bash
+mkdir -p ~/coWithAI/science-coding-protocol && \
+curl -L "https://raw.githubusercontent.com/7zthinking/CoWithAI/main/skills/science-coding-protocol/SKILL.md" \
+  -o ~/coWithAI/science-coding-protocol/SKILL.md
+```
+
 ## 简介
 
 让 AI 在科学项目里清楚**该做什么、该怎么做、绝不能做什么**。
@@ -30,6 +54,12 @@
 - **给 AI 看**：把 SKILL.md 整个读给 AI（粘贴到 system prompt 或 prompt 顶部）
 - **给团队看**：作为团队使用 AI 协助科学项目的内部规范
 - **给审稿人看**：作为方法论说明（"我们怎么用 AI"）
+
+## 链接
+
+- [GitHub 仓库](https://github.com/7zthinking/CoWithAI)
+- [SKILL.md 直链（raw）](https://raw.githubusercontent.com/7zthinking/CoWithAI/main/skills/science-coding-protocol/SKILL.md)
+- [SKILL.md 页面（rendered）](https://github.com/7zthinking/CoWithAI/blob/main/skills/science-coding-protocol/SKILL.md)
 
 ## 版本
 
